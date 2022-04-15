@@ -9,7 +9,7 @@
 4) Открыть файл index.html
 
 ### Скриншоты компьютерной версии
-!(img/pc_1.png)
+![alt Скриншот 1 PC](img/pc_1.png)
 
 ### Скриншоты мобильной версии
-!(img/mobile_1.png)
+![alt Скриншот 2 Mobile](img/mobile_1.png)
